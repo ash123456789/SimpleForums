@@ -1,0 +1,10 @@
+.multi-column {
+    -moz-column-count: 2;
+    -moz-column-gap: 1.5em;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 1.5em;
+    column-count: 2;
+    column-gap: 1.5em;
+    list-style-type: NONE;
+    max-width:70%;
+}
