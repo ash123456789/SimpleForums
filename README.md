@@ -6,3 +6,4 @@ A very basic forum project built in PHP using CakePHP 3.4.
 * Categories
 * Sub Forums
 * Threads
+* test
